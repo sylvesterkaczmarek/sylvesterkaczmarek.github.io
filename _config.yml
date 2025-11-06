@@ -6,8 +6,7 @@ minimal_mistakes_skin: dark
 plugins:
   - jekyll-include-cache
 
-masthead_title: ""
-logo: /assets/images/sylvester-kaczmarek.jpeg
+masthead_title: ""   # keeps the name out of the top bar
 
 author:
   name: Sylvester Kaczmarek
