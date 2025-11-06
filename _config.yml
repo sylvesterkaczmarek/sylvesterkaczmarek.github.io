@@ -5,6 +5,10 @@ remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: dark
 plugins:
   - jekyll-include-cache
+
 author:
   name: Sylvester Kaczmarek
   avatar: /assets/images/sylvester-kaczmarek.jpeg
+
+# optional polish
+logo: /assets/images/sylvester-kaczmarek.jpeg
