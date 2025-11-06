@@ -6,6 +6,9 @@ minimal_mistakes_skin: dark
 plugins:
   - jekyll-include-cache
 
+masthead_title: ""
+logo: /assets/images/sylvester-kaczmarek.jpeg
+
 author:
   name: Sylvester Kaczmarek
   avatar: /assets/images/sylvester-kaczmarek.jpeg
@@ -19,7 +22,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sylvesterkaczmarek.com"
-    # optional
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:space.stranger698@8shield.net"
