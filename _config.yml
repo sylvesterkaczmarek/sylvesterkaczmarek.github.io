@@ -9,7 +9,7 @@ plugins:
 masthead_title: ""   # hide top-left site title
 
 author:
-  name: Sylvester Kaczmarek
+  name: Prof. Sylvester Kaczmarek
   avatar: /assets/images/sylvester-kaczmarek.jpeg
   bio: Secure autonomy for space systems.
   links:
@@ -29,5 +29,5 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:space.stranger698@8shield.net"
     - label: "ORCID"
-      icon: "ai ai-orcid"
+      icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-0393-228X"
