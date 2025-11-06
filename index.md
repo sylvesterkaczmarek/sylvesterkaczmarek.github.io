@@ -2,15 +2,8 @@
 layout: single
 author_profile: true
 title: ""
-toc: true
-toc_sticky: false
-toc_label: "Contents"
-toc_icon: null
-toc_h_max: 2
-classes: wide
+toc: false
 ---
-
-# Sylvester Kaczmarek - Space, AI, and Robotics Cybersecurity
 
 ## Public Notice
 This portfolio is a public document and contains no sensitive or classified information. All contents are suitable for general audiences and comply with all applicable confidentiality agreements.
