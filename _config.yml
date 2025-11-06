@@ -1,4 +1,4 @@
-title: Sylvester Kaczmarek
+title: Prof. Sylvester Kaczmarek
 url: https://sylvesterkaczmarek.github.io
 baseurl: ""
 remote_theme: mmistakes/minimal-mistakes
@@ -6,12 +6,16 @@ minimal_mistakes_skin: dark
 plugins:
   - jekyll-include-cache
 
-masthead_title: ""   # keeps the name out of the top bar
+masthead_title: ""   # hide top-left site title
 
 author:
   name: Sylvester Kaczmarek
   avatar: /assets/images/sylvester-kaczmarek.jpeg
+  bio: Secure autonomy for space systems.
   links:
+    - label: "London, UK"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "https://www.google.com/maps?q=London,+UK"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/sylvesterkaczmarek/"
@@ -24,3 +28,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:space.stranger698@8shield.net"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-0393-228X"
