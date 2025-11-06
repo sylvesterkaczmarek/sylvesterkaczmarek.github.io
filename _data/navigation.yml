@@ -1,11 +1,9 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Skills"
-    url: /skills/
-  - title: "Projects"
-    url: /projects/
-  - title: "Contact"
-    url: /contact/
+  - title: About
+    url: /#introduction
+  - title: Publications
+    url: /#relevant-publications
+  - title: Credentials
+    url: /#cybersecurity-and-resilience-credentials
+  - title: Contact
+    url: /#contact
