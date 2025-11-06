@@ -9,3 +9,17 @@ plugins:
 author:
   name: Sylvester Kaczmarek
   avatar: /assets/images/sylvester-kaczmarek.jpeg
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/sylvesterkaczmarek/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sylvesterkaczmarek"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://sylvesterkaczmarek.com"
+    # optional
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:space.stranger698@8shield.net"
