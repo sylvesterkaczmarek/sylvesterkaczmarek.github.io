@@ -2,8 +2,11 @@
 layout: single
 author_profile: true
 title: ""
-toc: false
-toc_sticky: true
+toc: true
+toc_sticky: false
+toc_label: "Contents"
+toc_icon: null
+toc_h_max: 2
 classes: wide
 ---
 
