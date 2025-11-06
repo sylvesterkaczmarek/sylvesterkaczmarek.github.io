@@ -1,0 +1,10 @@
+title: Sylvester Kaczmarek
+url: https://sylvesterkaczmarek.github.io
+baseurl: ""
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: dark
+plugins:
+  - jekyll-include-cache
+author:
+  name: Sylvester Kaczmarek
+  avatar: /assets/images/sylvester-kaczmarek.jpeg
