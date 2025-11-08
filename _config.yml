@@ -12,10 +12,8 @@ author:
   name: Prof. Sylvester Kaczmarek
   avatar: /assets/images/sylvester-kaczmarek.jpeg
   bio: Secure autonomy for space systems.
+  location: London, UK
   links:
-    - label: "London, UK"
-      icon: "fas fa-fw fa-map-marker-alt"
-      url: ""
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/sylvesterkaczmarek/"
