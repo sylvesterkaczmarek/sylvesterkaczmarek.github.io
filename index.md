@@ -84,11 +84,11 @@ For public publications, subscribe to my [LinkedIn Newsletter](https://www.linke
 ## Cybersecurity and Resilience Credentials
 The following logos represent some of the key organizations from which I have received cybersecurity and resilience training and certifications:
 
-| <img src="/cisa_logo.png" alt="CISA" width="135"> | <img src="/nato_logo.png" alt="NATO" width="135"> | <img src="/google_logo.png" alt="Google" width="135"> | <img src="/ncsc_logo.png" alt="NCSC" width="135"> |
+| <img src="/assets/images/cisa_logo.png" alt="CISA" width="135"> | <img src="/assets/images/nato_logo.png" alt="NATO" width="135"> | <img src="/assets/images/google_logo.png" alt="Google" width="135"> | <img src="/assets/images/ncsc_logo.png" alt="NCSC" width="135"> |
 |---|---|---|---|
-| <img src="/cisco_logo.png" alt="Cisco" width="135"> | <img src="/dcsa_logo.png" alt="DCSA" width="135"> | <img src="/fema_logo.png" alt="FEMA" width="135"> | <img src="/alan_turing_institute_logo.png" alt="Alan Turing Institute" width="135"> |
-| <img src="/the_United_States_Department_of_Justice_logo.png" alt="United States Department of Justice" width="135"> | <img src="/ncjtc_logo.png" alt="NCJTC" width="135"> | <img src="/united_nations_office_for_disarmament_affairs_logo.png" alt="UNODA" width="135"> | <img src="/infosec_logo.png" alt="Infosec" width="135"> |
-| <img src="/international_atomic_energy_agency_logo.png" alt="IAEA" width="135"> | <img src="/united_nations_system_staff_college_logo.png" alt="UNSSC" width="135"> | <img src="/cloud_security_alliance_logo.png" alt="CSA" width="135"> |  |
+| <img src="/assets/images/cisco_logo.png" alt="Cisco" width="135"> | <img src="/assets/images/dcsa_logo.png" alt="DCSA" width="135"> | <img src="/assets/images/fema_logo.png" alt="FEMA" width="135"> | <img src="/assets/images/alan_turing_institute_logo.png" alt="Alan Turing Institute" width="135"> |
+| <img src="/assets/images/the_United_States_Department_of_Justice_logo.png" alt="United States Department of Justice" width="135"> | <img src="/assets/images/ncjtc_logo.png" alt="NCJTC" width="135"> | <img src="/assets/images/united_nations_office_for_disarmament_affairs_logo.png" alt="UNODA" width="135"> | <img src="/assets/images/infosec_logo.png" alt="Infosec" width="135"> |
+| <img src="/assets/images/international_atomic_energy_agency_logo.png" alt="IAEA" width="135"> | <img src="/assets/images/united_nations_system_staff_college_logo.png" alt="UNSSC" width="135"> | <img src="/assets/images/cloud_security_alliance_logo.png" alt="CSA" width="135"> |  |
 
 ### Additional Expertise and Credentials
 Beyond the core cybersecurity certifications listed above, I possess a range of specialized credentials and experience across related fields, including advanced AI and autonomous systems. A comprehensive list of my training, certifications, and achievements is available upon request for qualified inquiries.
@@ -100,7 +100,7 @@ Explore a comprehensive list of my technical skills, tools, and cybersecurity ex
 To see practical applications of my expertise, view selected project examples demonstrating security solutions across enterprise networks, satellite communications, UAVs, AI systems, and more on the [Portfolio Projects page](/resources/projects.md).
 
 ## License
-All rights reserved. Unauthorized use, modification, distribution, or reproduction of this work is prohibited. See the [LICENSE](https://github.com/sylvesterkaczmarek/Sylvester-Kaczmarek/blob/main/LICENSE) file for details.
+All rights reserved. Unauthorized use, modification, distribution, or reproduction of this work is prohibited. See the [LICENSE](/LICENSE) file for details.
 
 ## Contact
 For sensitive matters, inquiries, or professional collaborations, please reach out via email at **space.stranger698@8shield.net**. I also welcome connections on [LinkedIn](https://www.linkedin.com/in/sylvesterkaczmarek/).
