@@ -6,7 +6,7 @@ minimal_mistakes_skin: dark
 plugins:
   - jekyll-include-cache
 
-masthead_title: ""   # hide top-left site title
+masthead_title: "Space autonomy & security"   # small strapline in the top bar
 
 author:
   name: Prof. Sylvester Kaczmarek
@@ -15,7 +15,7 @@ author:
   links:
     - label: "London, UK"
       icon: "fas fa-fw fa-map-marker-alt"
-      url: "https://www.google.com/maps?q=London,+UK"
+      url: ""
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/sylvesterkaczmarek/"
@@ -27,7 +27,7 @@ author:
       url: "https://sylvesterkaczmarek.com"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:space.stranger698@8shield.net"
+      url: "mailto:assistant@sylvesterkaczmarek.com"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-0393-228X"
