@@ -104,3 +104,12 @@ All rights reserved. Unauthorized use, modification, distribution, or reproducti
 
 ## Contact
 For sensitive matters, inquiries, or professional collaborations, please reach out via email at **space.stranger698@8shield.net**. I also welcome connections on [LinkedIn](https://www.linkedin.com/in/sylvesterkaczmarek/).
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('.author__urls a').forEach(function (a) {
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+  });
+});
+</script>
