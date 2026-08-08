@@ -8,6 +8,15 @@ plugins:
 
 masthead_title: "Sylvester Kaczmarek"
 
+defaults:
+  - scope:
+      path: "resources"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      toc: false
+
 author:
   name: Sylvester Kaczmarek
   avatar: /assets/images/sylvester-kaczmarek.jpeg
