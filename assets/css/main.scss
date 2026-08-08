@@ -9,22 +9,31 @@ h2#cybersecurity--resilience-credentials + p + table {
   width: 100%;
   margin: 1rem 0 1.5rem;
   background: #fff !important;
+  border: 0 !important;
   border-collapse: collapse;
+  border-spacing: 0;
   border-radius: 4px;
   overflow: hidden;
+  box-shadow: none !important;
 }
 
+h2#cybersecurity--resilience-credentials + p + table thead,
 h2#cybersecurity--resilience-credentials + p + table tbody,
 h2#cybersecurity--resilience-credentials + p + table tr,
+h2#cybersecurity--resilience-credentials + p + table th,
 h2#cybersecurity--resilience-credentials + p + table td {
   background: #fff !important;
+  border: 0 !important;
+  border-top: 0 !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
 }
 
+h2#cybersecurity--resilience-credentials + p + table th,
 h2#cybersecurity--resilience-credentials + p + table td {
   padding: 0.85rem;
   text-align: center;
   vertical-align: middle;
-  border: 0 !important;
 }
 
 h2#cybersecurity--resilience-credentials + p + table img {
