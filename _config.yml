@@ -1,4 +1,4 @@
-title: Prof. Sylvester Kaczmarek
+title: Sylvester Kaczmarek
 url: https://sylvesterkaczmarek.github.io
 baseurl: ""
 remote_theme: mmistakes/minimal-mistakes
@@ -6,12 +6,12 @@ minimal_mistakes_skin: dark
 plugins:
   - jekyll-include-cache
 
-masthead_title: "Space AI & Security"   # small strapline in the top bar
+masthead_title: "Sylvester Kaczmarek"
 
 author:
-  name: Prof. Sylvester Kaczmarek
+  name: Sylvester Kaczmarek
   avatar: /assets/images/sylvester-kaczmarek.jpeg
-  bio: Secure autonomy for space systems.
+  bio: Safe, secure AI and autonomy for critical systems, space, and robotics.
   location: London, UK
   links:
     - label: "LinkedIn"
