@@ -70,7 +70,7 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 10. [Space Cyber Hacking](https://hakin9.org/space-cyber-hacking/) (Hakin9 Magazine)
 11. [What are robots thinking?](https://www.thersa.org/articles/comment/what-are-robots-thinking/) (the Royal Society)
 12. [The Evolution of Space Industry Cybersecurity: Embracing Zero Trust](https://www.linkedin.com/pulse/evolution-space-industry-cybersecurity-embracing-zero-kaczmarek/) (LinkedIn Article)
-13. [Cybersecurity Measures in Modern Space Exploration](https://pentestmag.com/cybersecurity-measures-modern-space-exploration/) (PenTest Magazine)
+13. [Cybersecurity Measures in Modern Space Exploration](https://pentestmag.com/cybersecurity-measures-in-modern-space-exploration/) (PenTest Magazine)
 14. [Cybersecure Lunar Rovers, Safeguarding Moon Exploration](https://www.flipsnack.com/688D7FBBDC9/i2-november-2023/full-view.html), co-authored with William Ferguson (Interstellar Integrity (i2), Pages 4-9)
 15. [Space cybersecurity: Protecting vital infrastructure beyond Earth’s atmosphere](https://www.innovationnewsnetwork.com/space-cybersecurity-protecting-vital-infrastructure-beyond-earths-atmosphere/46535/) (Innovation News Network)
 16. [Why the future of space exploration needs a lunar time zone](https://digitalfrontier.com/articles/moon-time-zone-spacex-blue-origin-bezos-musk) (Digital Frontier)
@@ -83,7 +83,7 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 23. [As threats to space-based infrastructure grow, cybersecurity for satellites is a growing challenge](https://www.business-reporter.co.uk/technology/cybersecurity-for-satellites-is-a-growing-challenge-as-threats-to-space-based-infrastructure-grow)
 24. [DDoS Attacks Pose Increasing Threat to Satellite and Ground Operators](https://www.kratosdefense.com/constellations/articles/ddos-attacks-pose-increasing-threat-to-satellite-and-ground-operators) (Kratos Defense)
 25. [The Evolving Cybersecurity Landscape in Space: A New Frontier for National Security](https://www.afcea.org/signal-media/cyber-edge/evolving-cybersecurity-landscape-space-new-frontier-national-security) (Armed Forces Communications & Electronics Association International (AFCEA))
-26. [Quantum Cyberattacks: A Future or Current Concern for Satellites?](https://www.kratosdefense.com/constellations/articles/quantum-cyberattacks-future-current-concern-satellites) (Kratos Defense)
+26. [Quantum Cyberattacks: A Future or Current Concern for Satellites?](https://www.kratosdefense.com/constellations/articles/quantum-cyberattacks-a-future-or-current-concern-for-satellites) (Kratos Defense)
 27. [AI cybersecurity - challenges in space](https://room.eu.com/article/ai-cybersecurity-challenges-in-space) (ROOM Space Journal of Asgardia)
 28. ['Alien: Earth' predicts a transhumanist future, but could we ever digitize human consciousness? We asked the experts (exclusive)](https://www.space.com/entertainment/space-movies-shows/alien-earth-predicts-a-transhumanist-future-but-could-we-ever-digitize-human-consciousness-we-asked-the-experts-exclusive) (Space.com)
 
