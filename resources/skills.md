@@ -1,3 +1,10 @@
+---
+layout: single
+author_profile: true
+title: ""
+toc: false
+---
+
 # Technical Skills & Expertise
 
 This section outlines my technical skills and expertise across AI and machine learning, cybersecurity, autonomous systems, space technologies, robotics, secure communications, software engineering, and critical systems.
