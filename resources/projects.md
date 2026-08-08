@@ -1,3 +1,10 @@
+---
+layout: single
+author_profile: true
+title: ""
+toc: false
+---
+
 # Selected Professional Case Studies
 
 ## Public Notice
