@@ -4,6 +4,10 @@ main:
   - title: Publications
     url: /#relevant-publications
   - title: Credentials
-    url: /#cybersecurity-and-resilience-credentials
+    url: /#cybersecurity--resilience-credentials
+  - title: Skills
+    url: /resources/skills.html
+  - title: Case Studies
+    url: /resources/projects.html
   - title: Contact
     url: /#contact
