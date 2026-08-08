@@ -5,7 +5,7 @@ title: ""
 toc: false
 ---
 
-# Sylvester Kaczmarek | Safe & Secure AI, Autonomy, Space & Robotics
+# Safe & Secure AI, Autonomy, Space & Robotics
 
 ## Public Notice
 
@@ -83,7 +83,7 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 23. [As threats to space-based infrastructure grow, cybersecurity for satellites is a growing challenge](https://www.business-reporter.co.uk/technology/cybersecurity-for-satellites-is-a-growing-challenge-as-threats-to-space-based-infrastructure-grow)
 24. [DDoS Attacks Pose Increasing Threat to Satellite and Ground Operators](https://www.kratosdefense.com/constellations/articles/ddos-attacks-pose-increasing-threat-to-satellite-and-ground-operators) (Kratos Defense)
 25. [The Evolving Cybersecurity Landscape in Space: A New Frontier for National Security](https://www.afcea.org/signal-media/cyber-edge/evolving-cybersecurity-landscape-space-new-frontier-national-security) (Armed Forces Communications & Electronics Association International (AFCEA))
-26. [Quantum Cyberattacks: A Future or Current Concern for Satellites?](https://www.kratosdefense.com/constellations/articles/quantum-cyberattacks-a-future-or-current-concern-for-satellites) (Kratos Defense)
+26. [Quantum Cyberattacks: A Future or Current Concern for Satellites?](https://www.kratosdefense.com/constellations/articles/quantum-cyberattacks-future-current-concern-satellites) (Kratos Defense)
 27. [AI cybersecurity - challenges in space](https://room.eu.com/article/ai-cybersecurity-challenges-in-space) (ROOM Space Journal of Asgardia)
 28. ['Alien: Earth' predicts a transhumanist future, but could we ever digitize human consciousness? We asked the experts (exclusive)](https://www.space.com/entertainment/space-movies-shows/alien-earth-predicts-a-transhumanist-future-but-could-we-ever-digitize-human-consciousness-we-asked-the-experts-exclusive) (Space.com)
 
