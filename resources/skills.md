@@ -1,6 +1,6 @@
-# Cybersecurity Tools & Skills
+# Technical Skills & Expertise
 
-This section outlines my technical skills and expertise across various cybersecurity domains, tools, and technologies.
+This section outlines my technical skills and expertise across AI and machine learning, cybersecurity, autonomous systems, space technologies, robotics, secure communications, software engineering, and critical systems.
 
 ## Core Cybersecurity Domains
 
@@ -21,6 +21,16 @@ This section outlines my technical skills and expertise across various cybersecu
 *   **Secure Protocols:** Deep understanding and implementation of secure communication protocols (TLS 1.3, DTLS, SSH, IPSec, QUIC); Protocol analysis and design for specialized environments (e.g., CCSDS Space Data Link Security (SDLS) protocols, delay-tolerant networking (DTN) security).
 *   **Data Integrity:** Ensuring data integrity through techniques like HMACs, authenticated encryption (AES-GCM), and error correction/detection codes relevant to noisy space channels.
 *   **Key Management:** Best practices for cryptographic key generation, distribution, storage, and lifecycle management, adapted for distributed and remote space assets.
+
+## AI, Machine Learning & Autonomous Systems
+
+*   **Machine Learning & Deep Learning:** Design, training, evaluation, and deployment of supervised and unsupervised learning systems using PyTorch, TensorFlow, scikit-learn, NumPy, SciPy, and pandas, including anomaly detection and classification for safety-critical and resource-constrained environments.
+*   **Safe, Secure & Trustworthy AI:** AI safety and alignment, adversarial robustness, runtime assurance, failure detection, calibrated decision support, and evaluation of systems operating under uncertainty, adaptation, and adversarial pressure.
+*   **Large Language Models:** Secure LLM design and evaluation, model and application-layer security, robustness considerations, responsible deployment, and assurance for high-risk or sensitive use cases.
+*   **Interpretability & Explainability:** Model inspection and explanation techniques including SHAP, Integrated Gradients, Layer-wise Relevance Propagation, feature attribution, and human-in-the-loop assurance.
+*   **Adaptive & Continual Learning:** Continual learning, adaptive thresholds, metaplasticity, alignment persistence, resistance to catastrophic forgetting, and controlled adaptation under sequential updates.
+*   **Neuromorphic Computing:** Spiking neural networks, temporal coding, adaptive neuromorphic learning, robustness and anomaly detection, with emphasis on low-power edge inference and autonomous systems.
+*   **Edge & Onboard AI:** Model compression, quantization, ONNX-based workflows, CUDA/TensorRT acceleration, and deployment of AI models to constrained edge and onboard computing environments.
 
 ## Specialized Security Expertise
 
@@ -44,11 +54,22 @@ This section outlines my technical skills and expertise across various cybersecu
 *   **Embedded & Control Systems Security:** Real-Time Operating System (RTOS) security considerations; Securing embedded Linux; Hardware security module (HSM) concepts; OT/ICS security fundamentals.
 *   **Geospatial Intelligence Security:** Applying security principles to GIS data handling and analysis workflows (ArcGIS); Secure transmission and storage of geospatial data.
 
+## Autonomous, Robotic & Space Systems
+
+*   **Autonomous Systems:** Architecture and evaluation of autonomous decision-making systems, including monitoring, verification, human oversight, fault handling, and operation where continuous supervision cannot be assumed.
+*   **Robotics:** AI/ML for robotic and physical systems, ROS 2, perception and decision pipelines, safety monitoring, and integration of autonomous software with real-world platforms.
+*   **Space Systems & Onboard Autonomy:** Spacecraft onboard intelligence, payload autonomy, mission operations, telemetry and command systems, edge processing, and autonomous operation in remote and communication-constrained environments.
+*   **Hardware-in-the-Loop & Validation:** Hardware-in-the-loop evaluation, simulation, test automation, verification and validation, and reproducible experimental workflows for autonomous and embedded systems.
+*   **Spaceflight Analysis & Simulation:** Orbital and mission simulation, autonomous spacecraft operations, and analysis of mission-relevant dynamics and operational constraints.
+
 ## Programming & Automation
 
 *   **Python:** Security scripting for automation, analysis, tool development, AI/ML security tasks, and interacting with APIs (including space systems APIs where applicable).
+*   **C++:** Performance-oriented software development for systems, simulation, robotics, embedded computing, and computationally constrained applications.
 *   **Bash:** Linux/Unix shell scripting for system administration, automation, and security tasks.
 *   **Rust:** Developing performance-critical and memory-safe security tools and applications, suitable for embedded and space system components.
+*   **Scientific & ML Computing:** PyTorch, TensorFlow, scikit-learn, NumPy, SciPy, pandas, OpenCV, Jupyter, and reproducible research workflows.
+*   **Deployment & Engineering Tooling:** Linux, Docker, Git/GitHub, GitHub Actions, ONNX, CUDA, TensorRT, CI/CD workflows, and LaTeX-based technical documentation.
 
 ## Governance, Risk & Compliance (GRC)
 
