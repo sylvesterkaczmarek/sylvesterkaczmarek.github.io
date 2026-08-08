@@ -1,77 +1,84 @@
-# Portfolio Projects
+# Selected Professional Case Studies
 
 ## Public Notice
-This portfolio is a public document and includes no sensitive or classified information. All the contents are suitable for general audiences and comply with confidentiality agreements.
 
-## Overview of Public Projects
-1. [Enterprise Network Security Audit](#project-1-enterprise-network-security-audit)
-2. [Small Business Security Assessment & Enhancement](#project-2-small-business-security-assessment--enhancement)
+The case studies below are drawn from real professional work and are presented in an anonymised and publication-safe form. Client names, identifying details, architectures, operational information, and other sensitive material have been omitted, generalised, or modified where necessary. The examples are intended to illustrate the nature and scope of the work without disclosing confidential, proprietary, classified, export-controlled, or otherwise restricted information.
+
+These examples represent only work that can be described publicly. Many professional engagements involve substantially larger or more complex systems but cannot be presented in detail because of contractual, security, or confidentiality constraints.
+
+## Case Study Overview
+
+1. [Autonomous Lunar Mobility Platform Architecture](#project-1-autonomous-lunar-mobility-platform-architecture)
+2. [Cislunar Robotics and Infrastructure Technology Roadmap](#project-2-cislunar-robotics-and-infrastructure-technology-roadmap)
 3. [Secure Satellite Communication Protocol Design](#project-3-secure-satellite-communication-protocol-design)
 4. [UAV Cybersecurity Framework Implementation](#project-4-uav-cybersecurity-framework-implementation)
 5. [AI-Driven Network Anomaly Detection](#project-5-ai-driven-network-anomaly-detection)
 6. [Secure SDR Implementation for Amateur Ground Stations](#project-6-secure-sdr-implementation-for-amateur-ground-stations)
 7. [Lunar Analog Habitat Cybersecurity Architecture](#project-7-lunar-analog-habitat-cybersecurity-architecture)
-8. [Family Office Cybersecurity Framework](#project-8-family-office-cybersecurity-framework)
+8. [Aerospace and Defence Technology Evaluation & Engineering Advisory](#project-8-aerospace-and-defence-technology-evaluation--engineering-advisory)
 
 ---
 
-## Project 1: Enterprise Network Security Audit
+## Project 1: Autonomous Lunar Mobility Platform Architecture
 
-### Overview
-Conducted a comprehensive security audit for a large corporation, evaluating network architecture, firewall configurations, intrusion detection/prevention systems (IDS/IPS), and overall vulnerability management posture.
+### Context
+Worked on the architecture and technical development of autonomous mobility concepts for lunar and other remote environments, where limited communications, difficult terrain, operational uncertainty, and long response times place greater responsibility on onboard systems.
 
-### Objectives
-- Analyzed network topology, segmentation, and data flow patterns for security risks.
-- Performed vulnerability scanning and configuration reviews of key network infrastructure.
-- Assessed firewall rule effectiveness and IDS/IPS signature relevance.
-- Recommended prioritized remediation actions and strategic security enhancements.
-- Evaluated system hardening practices, including Linux file permissions and database access controls.
+### Work Performed
+- Developed and assessed system architecture spanning mobility, autonomous decision-making, onboard sensing, communications, power, payload interfaces, and mission operations.
+- Evaluated autonomy requirements for navigation, local decision-making, fault handling, and operation where continuous human supervision cannot be assumed.
+- Examined payload and instrument integration requirements alongside mobility, communications, power, and operational constraints.
+- Identified resilience, graceful-degradation, verification, and human-oversight requirements for safety-critical mission functions.
+- Supported technical trade studies linking mission objectives to vehicle architecture and subsystem priorities.
 
 ### Tools & Technologies
-- Network Vulnerability Scanner (Nessus)
-- Packet Analyzer (Wireshark)
-- Firewall Platforms (Cisco ASA, Juniper SRX)
-- Linux/*nix command-line utilities
-- SQL database query tools (for configuration review)
+- Space systems engineering and mission architecture
+- Autonomous robotics and onboard decision systems
+- Payload and subsystem interface analysis
+- Mission scenario analysis and technical trade studies
+- Fault tolerance, resilience, and risk analysis
+- Simulation and verification-oriented engineering workflows
 
 ### Outcome
-- Identified numerous critical and high-severity vulnerabilities, providing detailed remediation guidance.
-- Delivered actionable insights leading to measurable improvements in the organization's network security posture.
-- Enhanced alignment with compliance requirements such as GDPR and HIPAA through targeted recommendations.
+- Established a coherent architecture connecting mission objectives, autonomous operations, payload needs, and spacecraft or robotic subsystems.
+- Clarified key technical dependencies and trade-offs affecting mobility, autonomy, communications, and mission resilience.
+- Supported staged development and validation planning for increasingly autonomous lunar operations.
 
 ---
 
-## Project 2: Small Business Security Assessment & Enhancement
+## Project 2: Cislunar Robotics and Infrastructure Technology Roadmap
 
-### Overview
-Executed a comprehensive security assessment and implemented foundational security improvements for a small business, focusing on identifying critical vulnerabilities and establishing robust defensive measures.
+### Context
+Developed technology-roadmapping work for robotic and autonomous capabilities supporting future cislunar and lunar infrastructure, where mobility, manipulation, communications, energy, resource utilisation, and remote operations must evolve as an integrated system rather than as isolated technologies.
 
-### Objectives
-- Conducted external and internal penetration testing to identify exploitable vulnerabilities.
-- Analyzed existing network design, security policies, and access control mechanisms.
-- Developed and implemented baseline security configurations for workstations and servers.
-- Established incident response guidelines and provided staff awareness training.
+### Work Performed
+- Decomposed high-level mission and infrastructure goals into enabling robotic, autonomy, communications, energy, sensing, and operational capabilities.
+- Assessed technology dependencies and interfaces across mobile robots, robotic manipulation, remote operations, in-situ resource utilisation, communications, and supporting infrastructure.
+- Evaluated maturity, integration risk, and sequencing requirements for candidate technologies and mission concepts.
+- Identified cross-cutting needs in autonomy, cybersecurity, resilience, verification, and human supervision.
+- Structured phased development and demonstration pathways from early terrestrial or analogue validation toward operational space systems.
 
 ### Tools & Technologies
-- Penetration Testing Frameworks (Metasploit, Burp Suite)
-- Network Firewalls (pfSense implementation)
-- Intrusion Detection System (Snort configuration)
-- Incident Response Ticketing System (setup and configuration)
+- Systems engineering and architecture decomposition
+- Technology readiness and maturity assessment
+- Mission scenario and dependency analysis
+- Robotics and autonomous-systems planning
+- Risk, assurance, and verification analysis
+- Technology roadmapping and staged demonstration planning
 
 ### Outcome
-- Significantly strengthened defenses against common cyber threats like phishing and ransomware.
-- Reduced the potential attack surface through network segmentation and system hardening.
-- Improved the company's capability to detect and respond effectively to security incidents.
-- Fostered a more security-conscious culture within the organization.
+- Produced a prioritised technology roadmap linking individual capabilities to broader cislunar mission and infrastructure objectives.
+- Identified critical dependencies, integration bottlenecks, and enabling technologies requiring earlier validation.
+- Provided a clearer sequence for moving from individual robotic capabilities toward integrated, resilient lunar operations.
 
 ---
 
 ## Project 3: Secure Satellite Communication Protocol Design
 
-### Overview
+### Context
 Led the design and analysis of secure communication protocols for satellite command, telemetry, and payload data transmission, emphasizing confidentiality, integrity, and authentication for space-to-Earth links.
 
-### Objectives
+### Work Performed
 - Defined security requirements based on mission profile and threat modeling specific to space assets.
 - Designed cryptographic protocols incorporating AES-GCM and SHA-3, suitable for satellite operational constraints.
 - Implemented and validated secure data transmission mechanisms ensuring data integrity via authenticated encryption.
@@ -92,10 +99,10 @@ Led the design and analysis of secure communication protocols for satellite comm
 
 ## Project 4: UAV Cybersecurity Framework Implementation
 
-### Overview
+### Context
 Developed and implemented a security framework for Unmanned Aerial Vehicles (UAVs), protecting command and control (C2) links, onboard data, and resisting potential cyber-attacks like jamming or hijacking.
 
-### Objectives
+### Work Performed
 - Secured the C2 link between UAVs and ground control stations using authenticated encryption (DTLS).
 - Implemented data-at-rest (LUKS) and data-in-transit (TLS) protection for collected sensor data.
 - Deployed lightweight intrusion detection agents tailored for UAV operational constraints.
@@ -117,10 +124,10 @@ Developed and implemented a security framework for Unmanned Aerial Vehicles (UAV
 
 ## Project 5: AI-Driven Network Anomaly Detection
 
-### Overview
+### Context
 Designed and implemented an AI-driven anomaly detection system leveraging machine learning to identify potentially malicious network activities that evade traditional signature-based detection methods.
 
-### Objectives
+### Work Performed
 - Curated and pre-processed NetFlow data and firewall logs for model training.
 - Developed and trained Isolation Forest and Autoencoder models to establish baseline network behavior.
 - Integrated the trained models with the ELK Stack for real-time log analysis.
@@ -142,10 +149,10 @@ Designed and implemented an AI-driven anomaly detection system leveraging machin
 
 ## Project 6: Secure SDR Implementation for Amateur Ground Stations
 
-### Overview
+### Context
 Led a project focused on securing ground-based amateur antennas for space communication, using Software-Defined Radio (SDR) techniques to ensure the integrity and authenticity of space-to-ground transmissions from amateur satellites.
 
-### Objectives
+### Work Performed
 - Implemented secure demodulation and decoding pipelines within GNU Radio.
 - Analyzed and mitigated risks associated with RF interference and spoofing targeting amateur SDR setups.
 - Developed methods using digital signatures (where feasible) for verifying received satellite transmissions.
@@ -167,10 +174,10 @@ Led a project focused on securing ground-based amateur antennas for space commun
 
 ## Project 7: Lunar Analog Habitat Cybersecurity Architecture
 
-### Overview
+### Context
 Designed and implemented cybersecurity protocols for a Lunar Analog Habitat simulation, focusing on safeguarding critical life support, communication, and research systems in an isolated, high-latency environment.
 
-### Objectives
+### Work Performed
 - Developed a Zero Trust security model adapted for the habitat's segmented network.
 - Implemented robust multi-factor authentication (MFA) and end-to-end encryption (TLS 1.3) for all internal and external communications.
 - Deployed intrusion detection (Zeek sensors) and continuous monitoring systems integrated with a central SIEM.
@@ -190,30 +197,31 @@ Designed and implemented cybersecurity protocols for a Lunar Analog Habitat simu
 
 ---
 
-## Project 8: Family Office Cybersecurity Framework
+## Project 8: Aerospace and Defence Technology Evaluation & Engineering Advisory
 
-### Overview
-Developed a tailored cybersecurity framework for a Family Office, addressing the unique financial, legal, and privacy concerns of high-net-worth individuals and families against targeted cyber threats.
+### Context
+Provided technical evaluation and engineering advisory support across advanced space, defence, autonomy, robotics, and dual-use technology companies, assessing whether ambitious technical claims were supported by credible architectures, development plans, and evidence.
 
-### Objectives
-- Designed robust protection against sophisticated phishing, ransomware, and identity theft attempts.
-- Implemented secure communication channels (Signal, ProtonMail) and encrypted data storage (VeraCrypt).
-- Deployed advanced endpoint protection and secure network configurations for home and office environments.
-- Created and delivered personalized cybersecurity awareness training for family members and staff.
+### Work Performed
+- Reviewed system architectures, engineering assumptions, technical differentiators, and development roadmaps.
+- Assessed technology maturity, feasibility, integration risk, qualification needs, and likely engineering bottlenecks.
+- Evaluated whether proposed technical approaches matched intended missions, operational environments, and customer requirements.
+- Challenged technical claims, identified missing validation evidence, and helped define stronger test and demonstration milestones.
+- Mentored technical teams on engineering priorities, product architecture, risk reduction, and the translation of advanced research into deployable systems.
 
 ### Tools & Technologies
-- Secure Communication Platforms (Signal, ProtonMail)
-- Full Disk & File Encryption (VeraCrypt, BitLocker)
-- Advanced Endpoint Detection & Response (EDR) Solution
-- Enterprise-Grade Firewall/VPN Appliance
-- Password Managers & Hardware Security Keys (MFA)
-- Custom Phishing Simulation & Training Platform
+- Technical due diligence and architecture review
+- Systems engineering and requirements analysis
+- Technology readiness and maturity assessment
+- Engineering risk and validation planning
+- Space, defence, autonomy, robotics, and dual-use technology evaluation
+- Mission, product, and deployment-readiness analysis
 
 ### Outcome
-- Established comprehensive protection reducing exposure for sensitive information and financial assets.
-- Improved confidence in secure Family Office operations through implemented technical controls and training.
-- Delivered tailored solutions addressing the unique cybersecurity challenges and risk profile faced by high-net-worth families.
+- Supported more evidence-based technical and programme decisions by identifying key engineering risks and unanswered questions early.
+- Helped teams sharpen development roadmaps, validation plans, and technical priorities.
+- Connected research and engineering choices more directly to mission requirements, qualification pathways, and deployable outcomes.
 
 ---
 
-For sensitive matters, inquiries, or professional collaborations, please reach out via email at [space.stranger698@8shield.net](mailto:space.stranger698@8shield.net). For quicker responses, you can also connect with me on my [LinkedIn Profile](https://www.linkedin.com/in/sylvesterkaczmarek/).
+For confidential inquiries, professional collaborations, or other sensitive matters, please reach out via email at [space.stranger698@8shield.net](mailto:space.stranger698@8shield.net). I also welcome connections on [LinkedIn](https://www.linkedin.com/in/sylvesterkaczmarek/).
