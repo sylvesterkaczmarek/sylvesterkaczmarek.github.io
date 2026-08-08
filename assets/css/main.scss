@@ -3,4 +3,39 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
-/* custom tweaks go here */
+
+/* Credential logos: keep transparent/dark logos legible on the dark site skin. */
+.credential-logos {
+  background: #fff;
+  border-radius: 4px;
+  overflow-x: auto;
+  padding: 0.75rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.credential-logos table,
+.credential-logos tbody,
+.credential-logos tr,
+.credential-logos td {
+  background: #fff !important;
+}
+
+.credential-logos table {
+  width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+}
+
+.credential-logos td {
+  padding: 0.75rem;
+  text-align: center;
+  vertical-align: middle;
+  border: 0 !important;
+}
+
+.credential-logos img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
