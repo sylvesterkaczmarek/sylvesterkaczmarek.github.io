@@ -1,12 +1,17 @@
 title: Sylvester Kaczmarek
+name: Sylvester Kaczmarek
+description: Safe, secure AI and autonomy for critical systems, space, and robotics.
+locale: en-GB
 url: https://sylvesterkaczmarek.github.io
 baseurl: ""
+repository: sylvesterkaczmarek/sylvesterkaczmarek.github.io
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: dark
 plugins:
   - jekyll-include-cache
 
 masthead_title: "Sylvester Kaczmarek"
+copyright: Sylvester Kaczmarek
 
 defaults:
   - scope:
@@ -34,7 +39,7 @@ author:
       url: "https://sylvesterkaczmarek.com"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:assistant@sylvesterkaczmarek.com"
+      url: "mailto:space.stranger698@8shield.net"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-0393-228X"
