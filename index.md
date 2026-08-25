@@ -116,7 +116,7 @@ In addition to my cybersecurity expertise, I have completed certified trainings 
 
 These trainings underscore my commitment to handling a wide range of crises effectively, ensuring the security and resilience of critical infrastructure, and addressing societal challenges in the face of diverse challenges.
 
-My commitment to international security and cooperation extends to specialized training with the United Nations System Staff College in Peacekeeping-Intelligence, Surveillance, and Reconnaissance (PKISR), covering legal frameworks, operational processes, and management of PKISR in UN peacekeeping missions. I also completed a cyberdiplomacy training course from the United Nations Office for Disarmament Affairs, focusing on the work of the UN Group of Governmental Experts (GGEs) in addressing ICT threats in international security.
+My commitment to international security and cooperation extends to specialized training with the United Nations System Staff College in Peacekeeping-Intelligence, Surveillance, and Reconnaissance (PKISR), covering legal frameworks, operational processes, and management of PKISR activities in UN peacekeeping missions. I also completed a cyberdiplomacy training course from the United Nations Office for Disarmament Affairs, focusing on the work of the UN Group of Governmental Experts (GGEs) in addressing ICT threats in international security.
 
 Additionally, I completed training with the International Atomic Energy Agency (IAEA) on Information and Computer Security, with a focus on Secure Software Development, achieving a score of 98.72%, covering key areas such as authentication, encryption, and data validation.
 
