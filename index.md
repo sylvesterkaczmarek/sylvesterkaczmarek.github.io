@@ -21,7 +21,7 @@ I am Sylvester Kaczmarek, working at the crossroads of safe and secure AI, auton
 * [Professional Overview & Contributions](#professional-overview--contributions)
   * [Academic Roles](#academic-roles)
   * [Relevant Publications](#relevant-publications)
-  * [Books in Progress](#books-in-progress)
+  * [Books & Book Chapters](#books--book-chapters)
 * [Cybersecurity & Resilience Credentials](#cybersecurity--resilience-credentials)
   * [Additional Expertise & Credentials](#additional-expertise--credentials)
 * [Technical Skills & Expertise](/resources/skills.md)
@@ -89,12 +89,12 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
-### Books in Progress
+### Books & Book Chapters
 
-I am currently authoring two books for leading academic publishers:
+Selected books and book chapters:
 
-* **_The Future of Lunar Space Exploration: Autonomous Robotics, Business, and Socioeconomic Impact_** (Springer). This book provides a definitive analysis of the rapidly evolving landscape of lunar exploration, forecasting the critical roles of autonomous robotics, cybersecurity, AI, emerging commercial markets, and the profound societal implications of a sustained human presence on the Moon.
-* **"Data Management and Privacy Concerns in AI"** (Chapter in _Integrating Business and AI_, Routledge, Taylor & Francis Group). This chapter addresses the urgent need for robust data governance and privacy frameworks in the age of AI, offering practical solutions and strategic insights for navigating the complex ethical and security challenges, particularly within the mission-critical aerospace and defense sectors.
+* **_The Future of Lunar Space Exploration: Autonomous Robotics, Business, and Socioeconomic Impact_** (Springer, in progress). This book provides a definitive analysis of the rapidly evolving landscape of lunar exploration, forecasting the critical roles of autonomous robotics, cybersecurity, AI, emerging commercial markets, and the profound societal implications of a sustained human presence on the Moon.
+* **["Data Management and Privacy in AI for Aerospace & Defense: Architecting for Assurance in Critical and Cyber-Physical Systems"](https://www.routledge.com/Integrating-Business-and-AI-Developing-Selling-and-Implementing-Artificial-Intelligence-in-Business/Pauceanu-Derchi/p/book/9781041053477)**, Chapter 13 in _Integrating Business and AI: Developing, Selling and Implementing Artificial Intelligence in Business_ (Routledge, published 20 August 2026), Part V, "Specialized Applications & Governance". The chapter addresses data governance, privacy, security, and assurance in critical and cyber-physical AI systems, with particular attention to aerospace and defence.
 
 ## Cybersecurity & Resilience Credentials
 
@@ -116,7 +116,7 @@ In addition to my cybersecurity expertise, I have completed certified trainings 
 
 These trainings underscore my commitment to handling a wide range of crises effectively, ensuring the security and resilience of critical infrastructure, and addressing societal challenges in the face of diverse challenges.
 
-My commitment to international security and cooperation extends to specialized training with the United Nations System Staff College in Peacekeeping-Intelligence, Surveillance, and Reconnaissance (PKISR), covering legal frameworks, operational processes, and management of PKISR activities in UN peacekeeping missions. I also completed a cyberdiplomacy training course from the United Nations Office for Disarmament Affairs, focusing on the work of the UN Group of Governmental Experts (GGEs) in addressing ICT threats in international security.
+My commitment to international security and cooperation extends to specialized training with the United Nations System Staff College in Peacekeeping-Intelligence, Surveillance, and Reconnaissance (PKISR), covering legal frameworks, operational processes, and management of PKISR in UN peacekeeping missions. I also completed a cyberdiplomacy training course from the United Nations Office for Disarmament Affairs, focusing on the work of the UN Group of Governmental Experts (GGEs) in addressing ICT threats in international security.
 
 Additionally, I completed training with the International Atomic Energy Agency (IAEA) on Information and Computer Security, with a focus on Secure Software Development, achieving a score of 98.72%, covering key areas such as authentication, encryption, and data validation.
 
